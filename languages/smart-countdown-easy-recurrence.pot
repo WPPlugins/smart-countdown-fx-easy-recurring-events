@@ -1,0 +1,280 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Countdown FX Easy Recurring Events\n"
+"Report-Msgid-Bugs-To: Smartcalc <support@smartcalc.es>\n"
+"POT-Creation-Date: 2016-08-07 19:53+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Smartcalc <support@smartcalc.es>\n"
+"Language-Team: Smartcalc <support@smartcalc.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: smartcdeasyrecurrence.php:62
+msgid "Easy recurring"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:87 smartcdeasyrecurrence.php:100
+msgid "Smart Countdown FX Easy Recurring Events Settings"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:87
+msgid "Easy Recurring Events"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:128
+msgid "Settings"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:159
+msgid "Merge configurations 1 & 2"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:160
+msgid "Merge configurations 3 & 4"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:161
+msgid "Merge all configurations"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:167 smartcdeasyrecurrence.php:190
+msgid "Untitled"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:243
+msgid "Configuration"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:246
+msgid "Title"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:249
+msgid ""
+"This title will appear in available event import profiles list in Smart "
+"Countdown FX configuration"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:253
+msgid "Recurrence pattern"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:257
+msgid "Disabled"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:258
+msgid "Hourly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:259
+msgid "Daily"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:260
+msgid "Weekly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:261
+msgid "Monthly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:262
+msgid "Monthly by week day"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:263
+msgid "Yearly"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:271
+msgid "Date"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:274
+msgid "Month"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:277
+msgid "January"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:278
+msgid "February"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:279
+msgid "March"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:280
+msgid "April"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:281
+msgid "May"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:282
+msgid "June"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:283
+msgid "July"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:284
+msgid "August"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:285
+msgid "September"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:286
+msgid "October"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:287
+msgid "November"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:288
+msgid "December"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:295
+msgid "Day"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:304
+msgid ""
+"You can safely select dates greater than 28 for monthly recurrence. If "
+"the date selected isn't valid for a given month, it will be replaced by "
+"the last day of this month. For example, if you select \"31\" the event "
+"will recur on the last day of each month"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:308
+msgid "Week days"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:312 smartcdeasyrecurrence.php:339
+msgid "Sunday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:313 smartcdeasyrecurrence.php:340
+msgid "Monday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:314 smartcdeasyrecurrence.php:341
+msgid "Tuesday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:315 smartcdeasyrecurrence.php:342
+msgid "Wednesday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:316 smartcdeasyrecurrence.php:343
+msgid "Thursday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:317 smartcdeasyrecurrence.php:344
+msgid "Friday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:318 smartcdeasyrecurrence.php:345
+msgid "Saturday"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:321
+msgid ""
+"Select week days when event takes place. Selecting all will result in "
+"\"Daily\" recurrence. Selecting none will disable recurrence."
+msgstr ""
+
+#: smartcdeasyrecurrence.php:325
+msgid "Week and day"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:329
+msgid "1st"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:330
+msgid "2nd"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:331
+msgid "3rd"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:332
+msgid "4th"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:333
+msgid "Last"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:348
+msgid " every month"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:349
+msgid ""
+"Week days have 4 to 5 ocurrences in each month. Choose \"Last\" week to "
+"schedule event for the last week of all months."
+msgstr ""
+
+#: smartcdeasyrecurrence.php:353
+msgid "Time"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:355
+msgid "Hours"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:362
+msgid "Minutes"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:372
+msgid "Interval"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:386
+msgid "Choose repeat interval in hours starting from the time selected"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:390
+msgid "Duration (hh:mm)"
+msgstr ""
+
+#: smartcdeasyrecurrence.php:393
+msgid ""
+"Enter event duration in \"hours:minutes\" format, e.g. 2:30 for two hours "
+"and a half. Allowed range: 0:00 - 23:59."
+msgstr ""
+
+#~ msgid "Event text will go here for ID:"
+#~ msgstr "Traducción título del evento"
+
+#~ msgid "Event text will go here for ID: "
+#~ msgstr "Great translation for event text"
